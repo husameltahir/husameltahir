@@ -79,11 +79,11 @@ flowchart LR
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/small-dark.png">
-  <img src="assets/small-light.png" width="100%" alt="Three smaller projects. Ahlan Score, tested but not launched. Deck Forensics, an early prototype. Risk Radar, with a live demo.">
+  <img src="assets/small-light.png" width="100%" alt="Three smaller projects. Ahlan Score, demo live with no audits yet. Deck Forensics, an early prototype. Risk Radar, with a live demo.">
 </picture>
 
-- **Ahlan Score.** With the owner's consent, it sends test enquiries by WhatsApp, Instagram, web form, phone and email, then scores how fast and how well the business replies, including whether it answers in Arabic. The result is a short bilingual report. Built and tested on sample data; no live audits yet.
-- **Deck Forensics.** Drop in a PowerPoint deck and it lists every font, colour and figure. It runs in your browser, so the file never leaves your computer. Next on the list: totals that don't add up, and figures that disagree between slides.
+- **Ahlan Score.** With the owner's consent, it sends test enquiries by WhatsApp, Instagram, web form, phone and email, then scores how fast and how well the business replies, including whether it answers in Arabic. The result is a short bilingual report. Built and tested on sample data; no live audits yet. [Sample report](https://ahlan-score.lovable.app/sample)
+- **Deck Forensics.** Drop in a PowerPoint deck and it lists every font, colour and figure. It runs in your browser, so the file never leaves your computer. Next on the list: totals that don't add up, and figures that disagree between slides. [Try it](https://deck-forensics.lovable.app)
 - **Risk Radar.** Turns a week of program updates from chat threads, stand-ups and vendor emails into a risk list, with an owner and a source for every item. [Live demo](https://husameltahir.github.io/risk-radar/) · [code](https://github.com/husameltahir/risk-radar)
 
 ## Background
